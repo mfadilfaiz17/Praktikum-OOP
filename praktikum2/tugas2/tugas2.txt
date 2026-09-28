@@ -1,0 +1,17 @@
+1. Apa yang dimaksud dengan parameter pada method?
+Parameter merupakan data atau nilai yang dikirimkan ke dalam method pada saat method tersebut dipanggil, sehingga data tersebut dapat diproses di dalamnya.
+
+2. Apa perbedaan parameter dengan atribut?
+Atribut (Variabel Class): Dideklarasikan di dalam suatu class (di luar method) dan digunakan untuk mendefinisikan karakteristik atau properti dari objek itu sendiri secara keseluruhan (seperti String nama dan String nim).
+Parameter: Dideklarasikan di dalam tanda kurung pada nama method dan hanya berfungsi sebagai variabel penampung sementara untuk menerima input spesifik saat method tersebut dipanggil.
+
+3. Apa fungsi return pada sebuah method?
+Sesuai modul praktikum, fungsi return digunakan untuk mengembalikan hasil dari suatu proses komputasi atau tindakan yang dilakukan oleh method kepada bagian program lain yang memanggilnya.
+
+4. Jelaskan perbedaan method dengan return dan method tanpa return.
+Method dengan return: Menghasilkan suatu nilai akhir yang dapat digunakan kembali dalam proses lain. Method ini harus dideklarasikan menggunakan tipe data tertentu di depan nama method (misalnya String, int, atau double) dan harus memuat kata kunci return.
+Method tanpa return: Hanya perlu menjalankan suatu proses atau tindakan (seperti sekadar mencetak teks ke layar) tanpa menghasilkan nilai untuk dikembalikan ke pemanggilnya. Method ini menggunakan kata kunci void.
+
+5. Apa perbedaan method dengan parameter dan method tanpa parameter?
+Method dengan parameter: Memungkinkan program mengirimkan nilai atau data spesifik dari luar ke dalam method saat dipanggil agar prosesnya lebih dinamis.
+Method tanpa parameter: Digunakan ketika suatu method hanya perlu menjalankan suatu proses secara mandiri tanpa memerlukan penerimaan data atau input tambahan apa pun dari luar ketika dipanggil.
