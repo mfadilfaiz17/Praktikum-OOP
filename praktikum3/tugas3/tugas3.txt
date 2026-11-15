@@ -1,0 +1,22 @@
+a. Apa yang dimaksud dengan constructor?
+Constructor adalah bagian khusus dari sebuah class yang digunakan untuk melakukan proses inisialisasi object -
+ketika object tersebut dibuat. Constructor memiliki nama yang persis sama dengan nama class-nya dan tidak -
+memiliki tipe kembalian (return type).
+
+b. Apa perbedaan constructor dengan method?
+Jika Methode digunakan untuk menjalankan suatu proses dan methode memiliki return type sedangkan constructor -
+digunakan untuk menginisialisasi object dan tidak memiliki return type.
+
+c. Apa perbedaan constructor tanpa parameter dengan constructor dengan parameter?
+Constructor tanpa parameter biasanya digunakan untuk memberikan nilai awal default pada atribut, sedangkan -
+constructor dengan parameter memungkinkan kita untuk memberikan nilai awal object secara spesifik dan langsung -
+ketika object tersebut dibuat.
+
+d. Jelaskan fungsi keyword this pada constructor.
+Keyword this digunakan untuk merujuk pada atribut milik class itu sendiri, guna membedakannya dari parameter -
+constructor atau method yang memiliki nama variabel yang sama. Contohnya, pada kode this.nama = nama; -
+this.nama merujuk ke atribut class, sedangkan nama merujuk ke parameter yang dikirim.
+
+e. Apa fungsi Class Diagram dalam pengembangan perangkat lunak berorientasi objek?
+Class diagram berfungsi untuk merepresentasikan struktur program dengan menggambarkan nama class, atribut,-
+method, serta hubungan antarclass.
